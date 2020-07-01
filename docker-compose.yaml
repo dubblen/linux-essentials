@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  computer:
+    tty: true
+    build: ./containers/computer
+    ports:
+      - "2222:22"
