@@ -1,6 +1,6 @@
 ### Linux essentials course
 
-Dependencie:
+Dependencies:
 - Docker
 - docker-compose
 
